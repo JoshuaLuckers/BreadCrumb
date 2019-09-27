@@ -1,5 +1,8 @@
 Changelog for BreadCrumb
 
+BreadCrumb 1.4.4-pl
+-------------------
+Added [[+position]] placeholder to support schema.org/BreadcrumbList thanks to John Cocula (watou) 
 
 BreadCrumb 1.4.3-pl
 -------------------
